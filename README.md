@@ -28,4 +28,4 @@ Overall, this task introduces essential web development concepts and helps learn
 
 #OUTPUT
 
-https://github.com/Rama-Nandyala/static-website-for-portfolio/issues/1
+https://github.com/user-attachments/files/20097281/OUTPUT.pdf
