@@ -26,3 +26,5 @@ This task also promotes best practices in web development, such as separating st
 
 Overall, this task introduces essential web development concepts and helps learners create a practical, usable outcome. The final product is a professional-looking portfolio website that can be viewed locally or hosted online using platforms like GitHub Pages or Netlify. It serves both as a learning exercise and as a valuable tool for showcasing the developer’s own work.
 
+#OUTPUT
+
